@@ -49,6 +49,6 @@ public class Main {
         var employeeGrowth = 94;
         var totalEmployees = companyEmployees + employeeGrowth;
         var totalHours = totalEmployees * 8;
-        System.out.println("Если в компании работает " + totalEmployees +  " человека, то всего " + totalHours  +  " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + totalEmployees +  " человека, то всего " + totalHours  +  " часов работы может быть поделено между сотрудниками.");
     }
 }
